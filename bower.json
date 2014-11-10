@@ -1,6 +1,6 @@
 {
   "name": "aglobof-sass",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "authors": [
     "Robb Schiller <robbschiller@gmail.com>"
   ],
@@ -10,8 +10,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "aglobof-sass.resets": "~0.0.1",
-    "aglobof-sass.grid": "~0.1.1",
-    "aglobof-sass.animations": "~0.0.2"
+    "aglobof-sass.resets": "~1.0.0",
+    "aglobof-sass.grid": "~1.0.0",
+    "aglobof-sass.animations": "~1.0.0"
   }
 }
