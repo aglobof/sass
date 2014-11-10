@@ -10,8 +10,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "aglobof-sass.resets": "~1.0.0",
-    "aglobof-sass.grid": "~1.0.0",
-    "aglobof-sass.animations": "~1.0.0"
+    "aglobof-sass.resets": "latest",
+    "aglobof-sass.grid": "latest",
+    "aglobof-sass.animations": "latest"
   }
 }
