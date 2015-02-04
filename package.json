@@ -1,0 +1,23 @@
+{
+  "name": "aglobof-sass",
+  "version": "1.1.0",
+  "description": "a glob of sass",
+  "main": "_glob.scss",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aglobof/sass.git"
+  },
+  "keywords": [
+    "glob",
+    "mixins"
+  ],
+  "author": "Robb Schiller <robbschiller@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aglobof/sass/issues"
+  },
+  "homepage": "https://github.com/aglobof/sass"
+}
